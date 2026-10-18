@@ -6,5 +6,9 @@
     "name": "Ahmed Shenawy"
   },
   "license": "MIT",
-  "repository": "https://github.com/Rebellion1991/be-more-ambitious"
+  "repository": "https://github.com/Rebellion1991/be-more-ambitious",
+  "homepage": "https://github.com/Rebellion1991/be-more-ambitious",
+  "documentationUrl": "https://github.com/Rebellion1991/be-more-ambitious/blob/main/README.md",
+  "supportUrl": "https://github.com/Rebellion1991/be-more-ambitious/issues",
+  "privacyPolicyUrl": "https://github.com/Rebellion1991/be-more-ambitious/blob/main/PRIVACY.md"
 }
