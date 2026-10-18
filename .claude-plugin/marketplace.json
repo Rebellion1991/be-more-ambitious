@@ -10,5 +10,8 @@
       "description": "Raise the ambition of a task or prompt along three axes: altitude (aim at the outcome), depth (work like a top expert), and range (bring in other fields).",
       "version": "1.0.0"
     }
-  ]
+  ],
+  "metadata": {
+    "description": "Claude skill that raises the ambition of a task or prompt: altitude, depth and range."
+  }
 }
